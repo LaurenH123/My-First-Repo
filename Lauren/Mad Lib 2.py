@@ -23,11 +23,10 @@ verbing = input()
 
 ###Begin Madlib###
 
-print("Do you want to make " + person1 "'s " + " famous " + food1 + "recipe?"
-"It is absolutly " + adjective1 "."
-"First you have to preheat the " + noun1 "to " + number1 + "."
-"Once you do that you can start " + verbing + person1 "'s " + "famous " + food1
-+ "recipie!")
+print "Do you want to make " + person1 "'s " + " famous " + food1 + "recipe?"
+print "It is absolutly " + adjective1 "."
+print "First you have to preheat the " + noun1 "to " + number1 + "."
+print "Once you do that you can start " + verbing + person1 "'s " + "famous " + food1 + "recipie!"
 
 
 
