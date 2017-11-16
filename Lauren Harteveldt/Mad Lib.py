@@ -1,3 +1,5 @@
+import time
+
 print("Write a noun.")
 noun1 = input()
 
@@ -35,3 +37,4 @@ print("He/She used the " + noun3 + " to " + verb1 + ".")
 print("He/She had fun using the " + noun3 + " to " + verb1 + " the entire rest of the day.")
 print("When He/She was done " + verb2 + " He/She was " + adjective3 + ".")
 
+time.sleep(180)
